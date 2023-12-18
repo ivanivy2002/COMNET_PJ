@@ -1,0 +1,20 @@
+{
+    "100KB": "https://111.229.132.28:{port}/speed-test-100KB.png",
+    "1MB": "https://111.229.132.28:{port}/speed-test-1MB.png",
+    "5MB": "https://111.229.132.28:{port}/speed-test-5MB.jpg",
+    "small": {
+        "url": "https://111.229.132.28:{port}/speed-test-small.html",
+        "numResources": 4,
+        "size": 468
+    },
+    "medium": {
+        "url": "https://111.229.132.28:{port}/speed-test-medium.html",
+        "numResources": 37,
+        "size": 812
+    },
+    "large": {
+        "url": "https://111.229.132.28:{port}/speed-test-large.html",
+        "numResources": 83,
+        "size": 13076
+    }
+}

@@ -1,0 +1,7 @@
+
+Measuring performance for large:
+URL: https://111.229.132.28:80/speed-test-large.html
+[1] Page Load Time: 0.01 s [1] Res Load Time: 166.43 s
+[2] Page Load Time: 0.00 s [2] Res Load Time: 220.22 s
+[3] Page Load Time: 0.00 s [3] Res Load Time: 171.33 s
+Avg Page Load Time: 0.00 s Avg Res Load Time: 185.99 s

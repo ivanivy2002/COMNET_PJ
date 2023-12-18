@@ -1,0 +1,8 @@
+Measuring performance for small:
+URL: https://111.229.132.28:8443/speed-test-small.html
+[1] Page Load Time: 2.72 s [1] Res Load Time: 9.39 s
+[2] Page Load Time: 2.80 s [2] Res Load Time: 5.49 s
+[3] Page Load Time: 2.92 s [3] Res Load Time: 7.35 s
+[4] Page Load Time: 2.11 s [4] Res Load Time: 14.00 s
+[5] Page Load Time: 2.43 s [5] Res Load Time: 13.10 s
+Avg Page Load Time: 2.60 s Avg Res Load Time: 9.87 s

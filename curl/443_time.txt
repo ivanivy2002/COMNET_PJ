@@ -1,0 +1,30 @@
+Connect time: 0.206643 s
+Start transfer time: 0.413182 s
+Total time: 0.413338 s
+Connect time: 0.207218 s
+Start transfer time: 0.413778 s
+Total time: 0.413846 s
+Connect time: 0.209287 s
+Start transfer time: 0.417469 s
+Total time: 0.417560 s
+Connect time: 0.207559 s
+Start transfer time: 0.414843 s
+Total time: 0.414913 s
+Connect time: 0.206981 s
+Start transfer time: 0.413119 s
+Total time: 0.413195 s
+Connect time: 1.219124 s
+Start transfer time: 1.425221 s
+Total time: 1.425294 s
+Connect time: 0.206829 s
+Start transfer time: 0.413386 s
+Total time: 0.413467 s
+Connect time: 0.206684 s
+Start transfer time: 0.413077 s
+Total time: 0.413162 s
+Connect time: 0.207227 s
+Start transfer time: 0.413894 s
+Total time: 0.413961 s
+Connect time: 0.207493 s
+Start transfer time: 0.414459 s
+Total time: 0.414527 s

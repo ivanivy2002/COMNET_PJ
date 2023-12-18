@@ -1,0 +1,7 @@
+Measuring performance for 5MB:
+URL: https://111.229.132.28:80/speed-test-5MB.jpg
+[1] Page Load Time: 2.54 s
+[1] Res Load Time: 211.94 s
+
+[2] Page Load Time: 1.99 s
+[2] Res Load Time: 162.79 s

@@ -1,0 +1,34 @@
+Measuring performance for large:
+URL: https://111.229.132.28:443/speed-test-large.html
+[1] Page Load Time: 0.00 s [1] Res Load Time: 207.72 s
+[2] Page Load Time: 0.01 s [2] Res Load Time: 218.61 s
+[3] Exception: Message: timeout: Timed out receiving message from renderer: 298.226
+  (Session info: chrome=120.0.6099.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF60D3B4D02+56194]
+	(No symbol) [0x00007FF60D3204B2]
+	(No symbol) [0x00007FF60D1C76AA]
+	(No symbol) [0x00007FF60D1B0839]
+	(No symbol) [0x00007FF60D1B06EB]
+	(No symbol) [0x00007FF60D1AEE3D]
+	(No symbol) [0x00007FF60D1AF7CE]
+	(No symbol) [0x00007FF60D1BD6CD]
+	(No symbol) [0x00007FF60D1D4471]
+	(No symbol) [0x00007FF60D1D937A]
+	(No symbol) [0x00007FF60D1AFEC6]
+	(No symbol) [0x00007FF60D1D41CF]
+	(No symbol) [0x00007FF60D25297F]
+	(No symbol) [0x00007FF60D235C23]
+	(No symbol) [0x00007FF60D204A45]
+	(No symbol) [0x00007FF60D205AD4]
+	GetHandleVerifier [0x00007FF60D72D5BB+3695675]
+	GetHandleVerifier [0x00007FF60D786197+4059159]
+	GetHandleVerifier [0x00007FF60D77DF63+4025827]
+	GetHandleVerifier [0x00007FF60D44F029+687785]
+	(No symbol) [0x00007FF60D32B508]
+	(No symbol) [0x00007FF60D327564]
+	(No symbol) [0x00007FF60D3276E9]
+	(No symbol) [0x00007FF60D318094]
+	BaseThreadInitThunk [0x00007FFDCFE0257D+29]
+	RtlUserThreadStart [0x00007FFDD0D6AA58+40]
+Avg Page Load Time: 0.00 s Avg Res Load Time: 142.11 s

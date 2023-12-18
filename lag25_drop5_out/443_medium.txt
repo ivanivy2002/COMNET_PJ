@@ -1,0 +1,6 @@
+Measuring performance for medium:
+URL: https://111.229.132.28:443/speed-test-medium.html
+Number of Resources: 37
+Size: 812 bytes
+[1] Page Load Time: 3.41 s
+[1] Res Load Time: 223.26 s

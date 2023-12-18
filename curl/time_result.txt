@@ -1,0 +1,30 @@
+Testing port 80 
+Average Connect time: -15 s 
+Average Start transfer time: -21 s 
+Average Total time: -15 s 
+ 
+Testing port 443 
+Average Connect time: -15 s 
+Average Start transfer time: -21 s 
+Average Total time: -15 s 
+ 
+Testing port 8443 
+Average Connect time: -15 s 
+Average Start transfer time: -21 s 
+Average Total time: -15 s 
+ 
+Testing port 80 
+Average Connect time: -15 s 
+Average Start transfer time: -21 s 
+Average Total time: -15 s 
+ 
+Testing port 443 
+Average Connect time: -15 s 
+Average Start transfer time: -21 s 
+Average Total time: -15 s 
+ 
+Testing port 8443 
+Average Connect time: -15 s 
+Average Start transfer time: -21 s 
+Average Total time: -15 s 
+ 

@@ -1,0 +1,6 @@
+Measuring performance for medium:
+URL: https://111.229.132.28:8443/speed-test-medium.html
+[1] Page Load Time: 0.00 s [1] Res Load Time: 10.32 s
+[2] Page Load Time: 0.01 s [2] Res Load Time: 9.66 s
+[3] Page Load Time: 0.01 s [3] Res Load Time: 15.43 s
+Avg Page Load Time: 0.01 s Avg Res Load Time: 11.80 s

@@ -1,0 +1,37 @@
+Measuring performance for 100KB:
+URL: https://111.229.132.28:80/speed-test-100KB.png
+[1] Page Load Time: 1.14 s [1] Res Load Time: 25.77 s
+[2] Page Load Time: 1.83 s [2] Res Load Time: 3.31 s
+[3] Page Load Time: 2.48 s [3] Res Load Time: 4.80 s
+[4] Exception: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=120.0.6099.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF65D2C4D02+56194]
+	(No symbol) [0x00007FF65D2304B2]
+	(No symbol) [0x00007FF65D0D76AA]
+	(No symbol) [0x00007FF65D0CFB39]
+	(No symbol) [0x00007FF65D0C25DD]
+	(No symbol) [0x00007FF65D0C16FD]
+	(No symbol) [0x00007FF65D0C0746]
+	(No symbol) [0x00007FF65D0C06EB]
+	(No symbol) [0x00007FF65D0BEE3D]
+	(No symbol) [0x00007FF65D0BF603]
+	(No symbol) [0x00007FF65D0DA0FD]
+	(No symbol) [0x00007FF65D162C91]
+	(No symbol) [0x00007FF65D145E7A]
+	(No symbol) [0x00007FF65D162786]
+	(No symbol) [0x00007FF65D145C23]
+	(No symbol) [0x00007FF65D114A45]
+	(No symbol) [0x00007FF65D115AD4]
+	GetHandleVerifier [0x00007FF65D63D5BB+3695675]
+	GetHandleVerifier [0x00007FF65D696197+4059159]
+	GetHandleVerifier [0x00007FF65D68DF63+4025827]
+	GetHandleVerifier [0x00007FF65D35F029+687785]
+	(No symbol) [0x00007FF65D23B508]
+	(No symbol) [0x00007FF65D237564]
+	(No symbol) [0x00007FF65D2376E9]
+	(No symbol) [0x00007FF65D228094]
+	BaseThreadInitThunk [0x00007FFCC4C7257D+29]
+	RtlUserThreadStart [0x00007FFCC50CAA58+40]
+[5] Page Load Time: 2.27 s [5] Res Load Time: 3.05 s
+Avg Page Load Time: 1.54 s Avg Res Load Time: 7.39 s

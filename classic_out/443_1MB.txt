@@ -1,0 +1,6 @@
+Measuring performance for 1MB:
+URL: https://111.229.132.28:443/speed-test-1MB.png
+[1] Page Load Time: 0.08 s [1] Res Load Time: 33.04 s
+[2] Page Load Time: 0.01 s [2] Res Load Time: 22.74 s
+[3] Page Load Time: 0.00 s [3] Res Load Time: 34.48 s
+Avg Page Load Time: 0.03 s Avg Res Load Time: 30.09 s

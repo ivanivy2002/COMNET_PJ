@@ -1,0 +1,8 @@
+Measuring performance for 100KB:
+URL: https://111.229.132.28:8443/speed-test-100KB.png
+[1] Page Load Time: 2.97 s [1] Res Load Time: 2.53 s
+[2] Page Load Time: 2.41 s [2] Res Load Time: 3.01 s
+[3] Page Load Time: 2.55 s [3] Res Load Time: 3.27 s
+[4] Page Load Time: 2.68 s [4] Res Load Time: 2.10 s
+[5] Page Load Time: 2.68 s [5] Res Load Time: 1.44 s
+Avg Page Load Time: 2.66 s Avg Res Load Time: 2.47 s
